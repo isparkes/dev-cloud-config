@@ -1,0 +1,4 @@
+text-to-speech-gateway:
+  enableConsoleAppender: true
+  request:
+    staging-file-prefix: Athene_TEST
