@@ -3,6 +3,10 @@ info:
   foo: bar
   someList: [2, 3, 7]
 
+cis:
+  rest:
+    uri: http://localhost:12345
+    
 enableConsoleAppender: false
 application-name: Swisscom Text To Speech Gateway
 log4j-default-level: info
