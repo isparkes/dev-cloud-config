@@ -15,7 +15,7 @@ sftp:
   private-key-file: ~/.ssh/id_rsa
   host:
   use-password: false
-  user:
+  user: FTP-USER
   password:
   port: 22
   remote-path: .
